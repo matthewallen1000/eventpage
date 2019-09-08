@@ -1348,7 +1348,7 @@
             }
           },
           "_name": "design-block",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section mbr-section--no-padding\" mbr-custom-code=\"true\">\n<!-- Type valid HTML here -->\n<mbr-parameters>\n<!-- Block parameters controls (Blue \"Gear\" panel) -->\n<tito-widget event=\"ultimateconf/2013\"></tito-widget>\n  <!-- End block parameters -->\n</mbr-parameters>\n<tito-widget event=\"ultimateconf/2013\"></tito-widget>\n\n<img src=\"https://i.imgur.com/YBPo7Up.jpg\" alt=\"\">\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section mbr-section--no-padding\" mbr-custom-code=\"true\">\n<!-- Type valid HTML here -->\n<mbr-parameters>\n<!-- Block parameters controls (Blue \"Gear\" panel) -->\n<!-- End block parameters -->\n</mbr-parameters>\n<tito-widget event=\"ultimateconf/2013\"></tito-widget>\n</section>",
           "_cid": "Aan8uilgU9",
           "_anchor": "design-block-Aan8uilgU9",
           "_protectedParams": [],
